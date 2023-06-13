@@ -1,4 +1,5 @@
 # Phishing para captura de senhas do Facebook
+Não me responsabilizo pelo uso indevido dessas informações, e esse conteúdo foi postado para fins educacionais.
 
 ### Ferramentas
 
