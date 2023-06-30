@@ -1,5 +1,6 @@
 # Phishing para captura de senhas do Facebook
 Não me responsabilizo pelo uso indevido dessas informações, e esse conteúdo foi postado para fins educacionais.
+Os navegadores junto com as redes sociais são bastante seguras, e ataques do tipo pishing não funciona utilizando esse método desatualizado.
 
 ### Ferramentas
 
